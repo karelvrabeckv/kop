@@ -1,0 +1,49 @@
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.1 > ../data/ratio_perm/perm_0/a.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.2 > ../data/ratio_perm/perm_0/b.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.3 > ../data/ratio_perm/perm_0/c.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.4 > ../data/ratio_perm/perm_0/d.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.5 > ../data/ratio_perm/perm_0/e.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.6 > ../data/ratio_perm/perm_0/f.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.7 > ../data/ratio_perm/perm_0/g.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.8 > ../data/ratio_perm/perm_0/h.dat
+./../generator/kg2 -n 20 -N 1 -W 10000 -C 100 -m 0.9 > ../data/ratio_perm/perm_0/i.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/a.dat > ../data/ratio_perm/perm_1/a.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/b.dat > ../data/ratio_perm/perm_1/b.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/c.dat > ../data/ratio_perm/perm_1/c.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/d.dat > ../data/ratio_perm/perm_1/d.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/e.dat > ../data/ratio_perm/perm_1/e.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/f.dat > ../data/ratio_perm/perm_1/f.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/g.dat > ../data/ratio_perm/perm_1/g.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/h.dat > ../data/ratio_perm/perm_1/h.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_0/i.dat > ../data/ratio_perm/perm_1/i.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/a.dat > ../data/ratio_perm/perm_2/a.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/b.dat > ../data/ratio_perm/perm_2/b.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/c.dat > ../data/ratio_perm/perm_2/c.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/d.dat > ../data/ratio_perm/perm_2/d.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/e.dat > ../data/ratio_perm/perm_2/e.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/f.dat > ../data/ratio_perm/perm_2/f.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/g.dat > ../data/ratio_perm/perm_2/g.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/h.dat > ../data/ratio_perm/perm_2/h.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_1/i.dat > ../data/ratio_perm/perm_2/i.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/a.dat > ../data/ratio_perm/perm_3/a.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/b.dat > ../data/ratio_perm/perm_3/b.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/c.dat > ../data/ratio_perm/perm_3/c.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/d.dat > ../data/ratio_perm/perm_3/d.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/e.dat > ../data/ratio_perm/perm_3/e.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/f.dat > ../data/ratio_perm/perm_3/f.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/g.dat > ../data/ratio_perm/perm_3/g.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/h.dat > ../data/ratio_perm/perm_3/h.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_2/i.dat > ../data/ratio_perm/perm_3/i.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/a.dat > ../data/ratio_perm/perm_4/a.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/b.dat > ../data/ratio_perm/perm_4/b.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/c.dat > ../data/ratio_perm/perm_4/c.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/d.dat > ../data/ratio_perm/perm_4/d.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/e.dat > ../data/ratio_perm/perm_4/e.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/f.dat > ../data/ratio_perm/perm_4/f.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/g.dat > ../data/ratio_perm/perm_4/g.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/h.dat > ../data/ratio_perm/perm_4/h.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/ratio_perm/perm_3/i.dat > ../data/ratio_perm/perm_4/i.dat

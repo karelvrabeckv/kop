@@ -1,0 +1,29 @@
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 1.0 > ../data/granularity_light/n15/a.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 2.0 > ../data/granularity_light/n15/b.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 3.0 > ../data/granularity_light/n15/c.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 4.0 > ../data/granularity_light/n15/d.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 5.0 > ../data/granularity_light/n15/e.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 6.0 > ../data/granularity_light/n15/f.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 7.0 > ../data/granularity_light/n15/g.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 8.0 > ../data/granularity_light/n15/h.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w light -k 9.0 > ../data/granularity_light/n15/i.dat
+
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 1.0 > ../data/granularity_light/n12/a.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 2.0 > ../data/granularity_light/n12/b.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 3.0 > ../data/granularity_light/n12/c.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 4.0 > ../data/granularity_light/n12/d.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 5.0 > ../data/granularity_light/n12/e.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 6.0 > ../data/granularity_light/n12/f.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 7.0 > ../data/granularity_light/n12/g.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 8.0 > ../data/granularity_light/n12/h.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w light -k 9.0 > ../data/granularity_light/n12/i.dat
+
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 1.0 > ../data/granularity_light/n10/a.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 2.0 > ../data/granularity_light/n10/b.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 3.0 > ../data/granularity_light/n10/c.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 4.0 > ../data/granularity_light/n10/d.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 5.0 > ../data/granularity_light/n10/e.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 6.0 > ../data/granularity_light/n10/f.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 7.0 > ../data/granularity_light/n10/g.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 8.0 > ../data/granularity_light/n10/h.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w light -k 9.0 > ../data/granularity_light/n10/i.dat

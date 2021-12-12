@@ -1,0 +1,29 @@
+./../generator/kg2 -n 15 -N 50 -W 1000 -C 100 > ../data/weight/n15/a.dat
+./../generator/kg2 -n 15 -N 50 -W 2000 -C 100 > ../data/weight/n15/b.dat
+./../generator/kg2 -n 15 -N 50 -W 3000 -C 100 > ../data/weight/n15/c.dat
+./../generator/kg2 -n 15 -N 50 -W 4000 -C 100 > ../data/weight/n15/d.dat
+./../generator/kg2 -n 15 -N 50 -W 5000 -C 100 > ../data/weight/n15/e.dat
+./../generator/kg2 -n 15 -N 50 -W 6000 -C 100 > ../data/weight/n15/f.dat
+./../generator/kg2 -n 15 -N 50 -W 7000 -C 100 > ../data/weight/n15/g.dat
+./../generator/kg2 -n 15 -N 50 -W 8000 -C 100 > ../data/weight/n15/h.dat
+./../generator/kg2 -n 15 -N 50 -W 9000 -C 100 > ../data/weight/n15/i.dat
+
+./../generator/kg2 -n 12 -N 50 -W 1000 -C 500 > ../data/weight/n12/a.dat
+./../generator/kg2 -n 12 -N 50 -W 2000 -C 500 > ../data/weight/n12/b.dat
+./../generator/kg2 -n 12 -N 50 -W 3000 -C 500 > ../data/weight/n12/c.dat
+./../generator/kg2 -n 12 -N 50 -W 4000 -C 500 > ../data/weight/n12/d.dat
+./../generator/kg2 -n 12 -N 50 -W 5000 -C 500 > ../data/weight/n12/e.dat
+./../generator/kg2 -n 12 -N 50 -W 6000 -C 500 > ../data/weight/n12/f.dat
+./../generator/kg2 -n 12 -N 50 -W 7000 -C 500 > ../data/weight/n12/g.dat
+./../generator/kg2 -n 12 -N 50 -W 8000 -C 500 > ../data/weight/n12/h.dat
+./../generator/kg2 -n 12 -N 50 -W 9000 -C 500 > ../data/weight/n12/i.dat
+
+./../generator/kg2 -n 10 -N 50 -W 1000 -C 1000 > ../data/weight/n10/a.dat
+./../generator/kg2 -n 10 -N 50 -W 2000 -C 1000 > ../data/weight/n10/b.dat
+./../generator/kg2 -n 10 -N 50 -W 3000 -C 1000 > ../data/weight/n10/c.dat
+./../generator/kg2 -n 10 -N 50 -W 4000 -C 1000 > ../data/weight/n10/d.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 1000 > ../data/weight/n10/e.dat
+./../generator/kg2 -n 10 -N 50 -W 6000 -C 1000 > ../data/weight/n10/f.dat
+./../generator/kg2 -n 10 -N 50 -W 7000 -C 1000 > ../data/weight/n10/g.dat
+./../generator/kg2 -n 10 -N 50 -W 8000 -C 1000 > ../data/weight/n10/h.dat
+./../generator/kg2 -n 10 -N 50 -W 9000 -C 1000 > ../data/weight/n10/i.dat

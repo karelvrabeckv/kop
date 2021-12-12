@@ -1,0 +1,11 @@
+./../generator/kg2 -n 22 -N 100 -W 1000 -C 100 -c uni > ../data/corr/n22/a_uni.dat
+./../generator/kg2 -n 22 -N 100 -W 1000 -C 100 -c corr > ../data/corr/n22/b_corr.dat
+./../generator/kg2 -n 22 -N 100 -W 1000 -C 100 -c strong > ../data/corr/n22/c_strong.dat
+
+./../generator/kg2 -n 20 -N 100 -W 500 -C 500 -c uni > ../data/corr/n20/a_uni.dat
+./../generator/kg2 -n 20 -N 100 -W 500 -C 500 -c corr > ../data/corr/n20/b_corr.dat
+./../generator/kg2 -n 20 -N 100 -W 500 -C 500 -c strong > ../data/corr/n20/c_strong.dat
+
+./../generator/kg2 -n 17 -N 100 -W 100 -C 1000 -c uni > ../data/corr/n17/a_uni.dat
+./../generator/kg2 -n 17 -N 100 -W 100 -C 1000 -c corr > ../data/corr/n17/b_corr.dat
+./../generator/kg2 -n 17 -N 100 -W 100 -C 1000 -c strong > ../data/corr/n17/c_strong.dat

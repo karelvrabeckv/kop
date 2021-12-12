@@ -1,0 +1,19 @@
+./../generator/kg2 -n 22 -N 1 -W 1000 -C 100 -c uni > ../data/corr_perm/perm_0/a_uni.dat
+./../generator/kg2 -n 22 -N 1 -W 1000 -C 100 -c corr > ../data/corr_perm/perm_0/b_corr.dat
+./../generator/kg2 -n 22 -N 1 -W 1000 -C 100 -c strong > ../data/corr_perm/perm_0/c_strong.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_0/a_uni.dat > ../data/corr_perm/perm_1/a_uni.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_0/b_corr.dat > ../data/corr_perm/perm_1/b_corr.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_0/c_strong.dat > ../data/corr_perm/perm_1/c_strong.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_1/a_uni.dat > ../data/corr_perm/perm_2/a_uni.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_1/b_corr.dat > ../data/corr_perm/perm_2/b_corr.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_1/c_strong.dat > ../data/corr_perm/perm_2/c_strong.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_2/a_uni.dat > ../data/corr_perm/perm_3/a_uni.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_2/b_corr.dat > ../data/corr_perm/perm_3/b_corr.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_2/c_strong.dat > ../data/corr_perm/perm_3/c_strong.dat
+
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_3/a_uni.dat > ../data/corr_perm/perm_4/a_uni.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_3/b_corr.dat > ../data/corr_perm/perm_4/b_corr.dat
+./../generator/kg_perm -d 1 -N 1 < ../data/corr_perm/perm_3/c_strong.dat > ../data/corr_perm/perm_4/c_strong.dat

@@ -1,0 +1,39 @@
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.1 > ../data/ratio/n20/a.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.2 > ../data/ratio/n20/b.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.3 > ../data/ratio/n20/c.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.4 > ../data/ratio/n20/d.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.5 > ../data/ratio/n20/e.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.6 > ../data/ratio/n20/f.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.7 > ../data/ratio/n20/g.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.8 > ../data/ratio/n20/h.dat
+./../generator/kg2 -n 20 -N 50 -W 10000 -C 100 -m 0.9 > ../data/ratio/n20/i.dat
+
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.1 > ../data/ratio/n17/a.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.2 > ../data/ratio/n17/b.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.3 > ../data/ratio/n17/c.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.4 > ../data/ratio/n17/d.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.5 > ../data/ratio/n17/e.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.6 > ../data/ratio/n17/f.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.7 > ../data/ratio/n17/g.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.8 > ../data/ratio/n17/h.dat
+./../generator/kg2 -n 17 -N 50 -W 6000 -C 4000 -m 0.9 > ../data/ratio/n17/i.dat
+
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.1 > ../data/ratio/n15/a.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.2 > ../data/ratio/n15/b.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.3 > ../data/ratio/n15/c.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.4 > ../data/ratio/n15/d.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.5 > ../data/ratio/n15/e.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.6 > ../data/ratio/n15/f.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.7 > ../data/ratio/n15/g.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.8 > ../data/ratio/n15/h.dat
+./../generator/kg2 -n 15 -N 50 -W 100 -C 10000 -m 0.9 > ../data/ratio/n15/i.dat
+
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.1 > ../data/ratio/n10/a.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.2 > ../data/ratio/n10/b.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.3 > ../data/ratio/n10/c.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.4 > ../data/ratio/n10/d.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.5 > ../data/ratio/n10/e.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.6 > ../data/ratio/n10/f.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.7 > ../data/ratio/n10/g.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.8 > ../data/ratio/n10/h.dat
+./../generator/kg2 -n 10 -N 50 -W 5000 -C 5000 -m 0.9 > ../data/ratio/n10/i.dat

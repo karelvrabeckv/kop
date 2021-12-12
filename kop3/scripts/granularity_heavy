@@ -1,0 +1,29 @@
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 1.0 > ../data/granularity_heavy/n15/a.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 2.0 > ../data/granularity_heavy/n15/b.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 3.0 > ../data/granularity_heavy/n15/c.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 4.0 > ../data/granularity_heavy/n15/d.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 5.0 > ../data/granularity_heavy/n15/e.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 6.0 > ../data/granularity_heavy/n15/f.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 7.0 > ../data/granularity_heavy/n15/g.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 8.0 > ../data/granularity_heavy/n15/h.dat
+./../generator/kg2 -n 15 -N 100 -W 1000 -C 100 -w heavy -k 9.0 > ../data/granularity_heavy/n15/i.dat
+
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 1.0 > ../data/granularity_heavy/n12/a.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 2.0 > ../data/granularity_heavy/n12/b.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 3.0 > ../data/granularity_heavy/n12/c.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 4.0 > ../data/granularity_heavy/n12/d.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 5.0 > ../data/granularity_heavy/n12/e.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 6.0 > ../data/granularity_heavy/n12/f.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 7.0 > ../data/granularity_heavy/n12/g.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 8.0 > ../data/granularity_heavy/n12/h.dat
+./../generator/kg2 -n 12 -N 100 -W 500 -C 500 -w heavy -k 9.0 > ../data/granularity_heavy/n12/i.dat
+
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 1.0 > ../data/granularity_heavy/n10/a.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 2.0 > ../data/granularity_heavy/n10/b.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 3.0 > ../data/granularity_heavy/n10/c.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 4.0 > ../data/granularity_heavy/n10/d.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 5.0 > ../data/granularity_heavy/n10/e.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 6.0 > ../data/granularity_heavy/n10/f.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 7.0 > ../data/granularity_heavy/n10/g.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 8.0 > ../data/granularity_heavy/n10/h.dat
+./../generator/kg2 -n 10 -N 100 -W 100 -C 1000 -w heavy -k 9.0 > ../data/granularity_heavy/n10/i.dat
